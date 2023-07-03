@@ -1,0 +1,18 @@
+# 忽略 Unity 生成的臨時文件
+Temp/
+Library/
+
+# 忽略 Unity 生成的編譯文件
+obj/
+Build/
+
+# 忽略 Visual Studio Code 相關設定
+.vscode/
+
+# 忽略專案生成的執行檔
+*.exe
+*.apk
+
+# 忽略其他不需要上傳的文件或資料夾
+CustomFolder/
+CustomFile.txt
